@@ -42,4 +42,4 @@ This repository contains all of my practice, notes, and mini-projects as I explo
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/java-learning-journey.git
+git clone https://github.com/IqbalShahed/java-learning-journey.git
